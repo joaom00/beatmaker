@@ -1,7 +1,5 @@
-<h1 align="center">Beatmaker</h1>
+<h1>
+  <a href="https://joaom00.github.io/beatmaker/">Veja o site agora mesmo</a>
+</h1>
 
-## [Live Demo](https://joaom00.github.io/Beatmaker/)
-
-<br/>
-
-<img align="center" src=".github/beatmaker.png">
+<img src=".github/beatmaker.webp">
